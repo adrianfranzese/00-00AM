@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  background: black;
+}
+
+#vid {
+  display: none;
+}
+
+#gif {
+  position: fixed;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  max-width: 300px;
+}
+
+#background {
+  z-index: -1;
+  position: fixed;
+}
+
+#container {
+  position: absolute;
+}
+
+#container p {
+  color: white;
+  width: 250px;
+}
+
+#overlay {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  color: white;
+  z-index: 1;
+  display: grid;
+  grid-template: repeat(2, 1fr) / repeat(2, 1fr);
+  /* border: 6px solid blue; */
+  cursor: none;
+}
+
+#overlay h1, #overlay h2, #overlay p {
+  margin: 20px;
+  padding: 0;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+#overlay h2, #overlay p+p {
+  justify-self: end;
+}
+
+#overlay p {
+  font-size: 12;
+  letter-spacing: 2px;
+  align-self: end;
+}
