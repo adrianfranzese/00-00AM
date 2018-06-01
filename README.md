@@ -8,5 +8,5 @@ Images torn from across the web. Lupi.png by Ella King
 Background Music:
 [*Nobody Here*](https://www.youtube.com/watch?v=sR7eADGQYg8) by Oneohtrix Point Never (2010), 10 Hour version uploaded by [jasondonervan](https://www.youtube.com/watch?v=ltncQ0t8I6A). Original track: [*The Lady in Red*](https://www.youtube.com/watch?v=Vt2YIpZWBqA) by Chris De Burgh (1986)
 
-Joudai Central - 4 months ago:
+*(via Youtube)* Joudai Central - 4 months ago:
 >The perfect afterlife. No fear, no pain, no boredom, because those parts of your brain are gone. Just eternal solitary rest hovering over an endless monochromatic road in a city background with a simple calming loop, forever. Or just waiting to respawn.﻿
